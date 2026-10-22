@@ -1,10 +1,11 @@
-
 # [System Design Interview - An Insider's Guide (Vol 1 and 2)](https://bytebytego.com/courses/system-design-interview)
 These notes are based on the System Design Interview books - [Vol 1 and Vol 2 2nd Ed](https://www.goodreads.com/book/show/54109255-system-design-interview-an-insider-s-guide) 
 
 Check the notes here: https://pagefy.io/system-design/system-design-interview-by-alex-xu
 
 **Note:** These notes are a work in progress. 
+
+**Language / 语言：** [English](./Readme.md) | [中文版](./Readme.md#中文版)
 
 
  * [Chapter 1 - Scale From Zero To Millions Of Users](./01.%20Scaling/)
@@ -35,6 +36,40 @@ Check the notes here: https://pagefy.io/system-design/system-design-interview-by
  * [Chapter 26 - Payment System](./26.%20Payment%20System/)
  * [Chapter 27 - Digital Wallet](./27.%20%20Digital%20Wallet/)
  * [Chapter 28 - Stock Exchange](./28.%20Stock%20Exchange/)
+
+
+# 中文版
+
+本仓库的中文翻译版：全部 28 章均完整翻译为中文，译文按英文章节名镜像存放于 `中文/` 目录下。
+
+ * [第 1 章：从零扩展到百万级用户](./中文/01.%20Scaling/Readme.md)
+ * [第 2 章：粗略估算（Back-of-the-Envelope Estimation）](./中文/02.%20Back%20Of%20the%20Envelope%20Estimation/Readme.md)
+ * [第 3 章：系统设计面试框架](./中文/03.%20System%20Design%20Framework/Readme.md)
+ * [第 4 章：设计限流器](./中文/04.%20Rate%20Limiter/Readme.md)
+ * [第 5 章：设计一致性哈希](./中文/05.%20Consistent%20Hashing/Readme.md)
+ * [第 6 章：设计键值存储](./中文/06.%20Key-Value%20Store/Readme.md)
+ * [第 7 章：设计分布式唯一 ID 生成器](./中文/07.%20Unique-Id%20Generator/Readme.md)
+ * [第 8 章：设计 URL 缩短服务](./中文/08.%20URL%20Shortener/Readme.md)
+ * [第 9 章：设计网络爬虫](./中文/09.%20Web%20Crawler/Readme.md)
+ * [第 10 章：设计通知系统](./中文/10.%20Notification%20System/Readme.md)
+ * [第 11 章：设计信息流系统](./中文/11.%20News%20Feed%20System/Readme.md)
+ * [第 12 章：设计聊天系统](./中文/12.%20Chat%20System/Readme.md)
+ * [第 13 章：设计搜索自动补全系统](./中文/13.%20Search%20Autocomplete/Readme.md)
+ * [第 14 章：设计 YouTube](./中文/14.%20Youtube/Readme.md)
+ * [第 15 章：设计 Google Drive](./中文/15.%20Google%20Drive/Readme.md)
+ * [第 16 章：邻近服务（Proximity Service）](./中文/16.%20Proximity%20Service/Readme.md)
+ * [第 17 章：附近的人（Nearby Friends）](./中文/17.%20Nearby%20Friends/Readme.md)
+ * [第 18 章：设计谷歌地图（Google Maps）](./中文/18.%20Google%20Maps/Readme.md)
+ * [第 19 章：分布式消息队列](./中文/19.%20Distributed%20Message%20Queue/Readme.md)
+ * [第 20 章：指标监控与告警系统](./中文/20.%20Metrics%20Monitoring%20and%20Alerting%20System/Readme.md)
+ * [第 21 章：广告点击事件聚合](./中文/21.%20Ad%20Click%20Event%20Aggregation/Readme.md)
+ * [第 22 章：酒店预订系统](./中文/22.%20Hotel%20Reservation%20System/Readme.md)
+ * [第 23 章：分布式电子邮件服务](./中文/23.%20Distributed%20Email%20Service/Readme.md)
+ * [第 24 章：类 S3 对象存储（S3-like Object Storage）](./中文/24.%20S3-like%20Object%20Storage/Readme.md)
+ * [第 25 章：实时游戏排行榜](./中文/25.%20Real-time%20Gaming%20Leaderboard/Readme.md)
+ * [第 26 章：支付系统](./中文/26.%20Payment%20System/Readme.md)
+ * [第 27 章：数字钱包](./中文/27.%20%20Digital%20Wallet/Readme.md)
+ * [第 28 章：证券交易所](./中文/28.%20Stock%20Exchange/Readme.md)
 
 
 # Additonal Resources
